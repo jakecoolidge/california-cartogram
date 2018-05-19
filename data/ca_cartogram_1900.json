@@ -1,0 +1,2444 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modoc",
+        "pop1900": 5076,
+        "sq1900": 1,
+        "area_sqmi": 3944.1,
+        "color": "gold",
+        "colorgroup": "j",
+        "hex": "#efc94c",
+        "population": 5076,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.3909,
+              46.9247
+            ],
+            [
+              -127.3909,
+              46.8468
+            ],
+            [
+              -127.6191,
+              46.8468
+            ],
+            [
+              -127.6191,
+              46.9247
+            ],
+            [
+              -127.3909,
+              46.9247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lassen",
+        "pop1900": 4511,
+        "sq1900": 0,
+        "area_sqmi": 4557.27,
+        "color": "deep red",
+        "colorgroup": "b",
+        "hex": "#962d3e",
+        "population": 4511,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.3909,
+              46.8468
+            ],
+            [
+              -127.3909,
+              46.7687
+            ],
+            [
+              -127.6191,
+              46.7687
+            ],
+            [
+              -127.6191,
+              46.8468
+            ],
+            [
+              -127.3909,
+              46.8468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siskiyou",
+        "pop1900": 16962,
+        "sq1900": 2,
+        "area_sqmi": 6286.78,
+        "color": "sea green",
+        "colorgroup": "h",
+        "hex": "#00a390",
+        "population": 16962,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.1895,
+              46.9247
+            ],
+            [
+              -127.8473,
+              46.9247
+            ],
+            [
+              -127.8473,
+              46.8468
+            ],
+            [
+              -127.6191,
+              46.8468
+            ],
+            [
+              -127.6191,
+              46.7687
+            ],
+            [
+              -128.1895,
+              46.7687
+            ],
+            [
+              -128.1895,
+              46.9247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Del Norte",
+        "pop1900": 2408,
+        "sq1900": 0,
+        "area_sqmi": 1007.81,
+        "color": "blue",
+        "colorgroup": "e",
+        "hex": "#348899",
+        "population": 2408,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.3036,
+              47.0026
+            ],
+            [
+              -128.3036,
+              46.9247
+            ],
+            [
+              -128.4177,
+              46.9247
+            ],
+            [
+              -128.4177,
+              47.0026
+            ],
+            [
+              -128.3036,
+              47.0026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humboldt",
+        "pop1900": 27104,
+        "sq1900": 3,
+        "area_sqmi": 3572.49,
+        "color": "lavender",
+        "colorgroup": "a",
+        "hex": "#8d719d",
+        "population": 27104,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.4177,
+              46.9247
+            ],
+            [
+              -128.1895,
+              46.9247
+            ],
+            [
+              -128.1896,
+              46.6122
+            ],
+            [
+              -128.6459,
+              46.6122
+            ],
+            [
+              -128.6459,
+              46.7687
+            ],
+            [
+              -128.4177,
+              46.7687
+            ],
+            [
+              -128.4177,
+              46.9247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity",
+        "pop1900": 4383,
+        "sq1900": 0,
+        "area_sqmi": 3178.61,
+        "color": "pale yellow",
+        "colorgroup": "f",
+        "hex": "#ffff9d",
+        "population": 4383,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.1895,
+              46.7687
+            ],
+            [
+              -128.0754,
+              46.7687
+            ],
+            [
+              -128.0754,
+              46.6122
+            ],
+            [
+              -128.1896,
+              46.6122
+            ],
+            [
+              -128.1895,
+              46.7687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shasta",
+        "pop1900": 17318,
+        "sq1900": 2,
+        "area_sqmi": 3785.19,
+        "color": "deep blue",
+        "colorgroup": "d",
+        "hex": "#334d5c",
+        "population": 17318,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0754,
+              46.7687
+            ],
+            [
+              -127.6191,
+              46.7687
+            ],
+            [
+              -127.6191,
+              46.6122
+            ],
+            [
+              -128.0754,
+              46.6122
+            ],
+            [
+              -128.0754,
+              46.7687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plumas",
+        "pop1900": 4657,
+        "sq1900": 0,
+        "area_sqmi": 2553.69,
+        "color": "red orange",
+        "colorgroup": "i",
+        "hex": "#df5a49",
+        "population": 4657,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.1628,
+              46.7687
+            ],
+            [
+              -127.1628,
+              46.6122
+            ],
+            [
+              -127.6191,
+              46.6122
+            ],
+            [
+              -127.6191,
+              46.7687
+            ],
+            [
+              -127.1628,
+              46.7687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sierra",
+        "pop1900": 4017,
+        "sq1900": 0,
+        "area_sqmi": 953.38,
+        "color": "gray",
+        "colorgroup": "k",
+        "hex": "#979c9c",
+        "population": 4017,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.1628,
+              46.5337
+            ],
+            [
+              -127.3909,
+              46.5337
+            ],
+            [
+              -127.3909,
+              46.6122
+            ],
+            [
+              -127.1628,
+              46.6122
+            ],
+            [
+              -127.1628,
+              46.5337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butte",
+        "pop1900": 17117,
+        "sq1900": 2,
+        "area_sqmi": 1639.49,
+        "color": "pale yellow",
+        "colorgroup": "c",
+        "hex": "#ffff9d",
+        "population": 17117,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.3909,
+              46.6122
+            ],
+            [
+              -127.3909,
+              46.4552
+            ],
+            [
+              -127.8473,
+              46.4552
+            ],
+            [
+              -127.8473,
+              46.6122
+            ],
+            [
+              -127.3909,
+              46.6122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tehama",
+        "pop1900": 10996,
+        "sq1900": 1,
+        "area_sqmi": 2950.99,
+        "color": "lavender",
+        "colorgroup": "a",
+        "hex": "#8d719d",
+        "population": 10996,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0754,
+              46.6122
+            ],
+            [
+              -127.8473,
+              46.6122
+            ],
+            [
+              -127.8473,
+              46.4552
+            ],
+            [
+              -128.0755,
+              46.4552
+            ],
+            [
+              -128.0754,
+              46.6122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mendocino",
+        "pop1900": 20465,
+        "sq1900": 2,
+        "area_sqmi": 3508.97,
+        "color": "light green",
+        "colorgroup": "f",
+        "hex": "#beeb9f",
+        "population": 20465,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.5318,
+              46.6122
+            ],
+            [
+              -128.0754,
+              46.6122
+            ],
+            [
+              -128.0755,
+              46.4552
+            ],
+            [
+              -128.5318,
+              46.4552
+            ],
+            [
+              -128.5318,
+              46.6122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nevada",
+        "pop1900": 17789,
+        "sq1900": 2,
+        "area_sqmi": 957.61,
+        "color": "gold",
+        "colorgroup": "j",
+        "hex": "#efc94c",
+        "population": 17789,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.1628,
+              46.4552
+            ],
+            [
+              -127.1628,
+              46.2978
+            ],
+            [
+              -127.6191,
+              46.2978
+            ],
+            [
+              -127.6191,
+              46.4552
+            ],
+            [
+              -127.1628,
+              46.4552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Placer",
+        "pop1900": 15786,
+        "sq1900": 2,
+        "area_sqmi": 1404.37,
+        "color": "light green",
+        "colorgroup": "f",
+        "hex": "#beeb9f",
+        "population": 15786,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.2769,
+              46.2978
+            ],
+            [
+              -127.2769,
+              46.1399
+            ],
+            [
+              -127.7332,
+              46.1399
+            ],
+            [
+              -127.7332,
+              46.2978
+            ],
+            [
+              -127.2769,
+              46.2978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutter",
+        "pop1900": 5886,
+        "sq1900": 1,
+        "area_sqmi": 602.54,
+        "color": "deep blue",
+        "colorgroup": "d",
+        "hex": "#334d5c",
+        "population": 5886,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.7332,
+              46.2978
+            ],
+            [
+              -127.7332,
+              46.1399
+            ],
+            [
+              -127.8473,
+              46.1399
+            ],
+            [
+              -127.8473,
+              46.2978
+            ],
+            [
+              -127.7332,
+              46.2978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuba",
+        "pop1900": 8620,
+        "sq1900": 1,
+        "area_sqmi": 630.69,
+        "color": "sea green",
+        "colorgroup": "h",
+        "hex": "#00a391",
+        "population": 8620,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.6191,
+              46.4552
+            ],
+            [
+              -127.6191,
+              46.2978
+            ],
+            [
+              -127.8473,
+              46.2978
+            ],
+            [
+              -127.8473,
+              46.4552
+            ],
+            [
+              -127.6191,
+              46.4552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenn",
+        "pop1900": 5150,
+        "sq1900": 1,
+        "area_sqmi": 1314.79,
+        "color": "gray",
+        "colorgroup": "k",
+        "hex": "#979c9c",
+        "population": 5150,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.8473,
+              46.4552
+            ],
+            [
+              -127.8473,
+              46.2978
+            ],
+            [
+              -128.0755,
+              46.2978
+            ],
+            [
+              -128.0755,
+              46.4552
+            ],
+            [
+              -127.8473,
+              46.4552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake",
+        "pop1900": 6017,
+        "sq1900": 1,
+        "area_sqmi": 1257.96,
+        "color": "orange",
+        "colorgroup": "g",
+        "hex": "#e27a3f",
+        "population": 6017,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0755,
+              46.4552
+            ],
+            [
+              -128.0755,
+              46.1399
+            ],
+            [
+              -128.1895,
+              46.1399
+            ],
+            [
+              -128.1895,
+              46.2189
+            ],
+            [
+              -128.1325,
+              46.2189
+            ],
+            [
+              -128.1325,
+              46.4552
+            ],
+            [
+              -128.0755,
+              46.4552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonoma",
+        "pop1900": 38480,
+        "sq1900": 4,
+        "area_sqmi": 1575.88,
+        "color": "deep blue",
+        "colorgroup": "d",
+        "hex": "#334d5c",
+        "population": 38480,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.5888,
+              46.4552
+            ],
+            [
+              -128.1325,
+              46.4552
+            ],
+            [
+              -128.1325,
+              46.2189
+            ],
+            [
+              -128.1895,
+              46.2189
+            ],
+            [
+              -128.1895,
+              46.1399
+            ],
+            [
+              -128.5888,
+              46.1399
+            ],
+            [
+              -128.5888,
+              46.4552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colusa",
+        "pop1900": 7364,
+        "sq1900": 1,
+        "area_sqmi": 1150.68,
+        "color": "blue",
+        "colorgroup": "e",
+        "hex": "#348899",
+        "population": 7364,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0755,
+              46.2978
+            ],
+            [
+              -127.8473,
+              46.2978
+            ],
+            [
+              -127.8473,
+              46.1399
+            ],
+            [
+              -128.0755,
+              46.1399
+            ],
+            [
+              -128.0755,
+              46.2978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yolo",
+        "pop1900": 13618,
+        "sq1900": 1,
+        "area_sqmi": 1013.27,
+        "color": "sea green",
+        "colorgroup": "h",
+        "hex": "#00a391",
+        "population": 13618,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0755,
+              46.1399
+            ],
+            [
+              -127.8473,
+              46.1399
+            ],
+            [
+              -127.8473,
+              45.9816
+            ],
+            [
+              -128.0755,
+              45.9816
+            ],
+            [
+              -128.0755,
+              46.1399
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Napa",
+        "pop1900": 16451,
+        "sq1900": 2,
+        "area_sqmi": 753.73,
+        "color": "gold",
+        "colorgroup": "j",
+        "hex": "#efc94c",
+        "population": 16451,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.5318,
+              45.9816
+            ],
+            [
+              -128.5318,
+              46.1399
+            ],
+            [
+              -128.0755,
+              46.1399
+            ],
+            [
+              -128.0755,
+              45.9816
+            ],
+            [
+              -128.5318,
+              45.9816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marin",
+        "pop1900": 15702,
+        "sq1900": 2,
+        "area_sqmi": 519.8,
+        "color": "red orange",
+        "colorgroup": "i",
+        "hex": "#df5a49",
+        "population": 15702,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.9881,
+              46.1399
+            ],
+            [
+              -128.5318,
+              46.1399
+            ],
+            [
+              -128.5318,
+              45.9816
+            ],
+            [
+              -128.9881,
+              45.9816
+            ],
+            [
+              -128.9881,
+              46.1399
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solano",
+        "pop1900": 24143,
+        "sq1900": 2,
+        "area_sqmi": 829.19,
+        "color": "deep red",
+        "colorgroup": "b",
+        "hex": "#962d3e",
+        "population": 24143,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.3036,
+              45.9816
+            ],
+            [
+              -127.8473,
+              45.9816
+            ],
+            [
+              -127.8473,
+              45.8228
+            ],
+            [
+              -128.3036,
+              45.8228
+            ],
+            [
+              -128.3036,
+              45.9816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Dorado",
+        "pop1900": 8986,
+        "sq1900": 1,
+        "area_sqmi": 1710.85,
+        "color": "deep red",
+        "colorgroup": "b",
+        "hex": "#962d3e",
+        "population": 8986,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.3909,
+              45.9816
+            ],
+            [
+              -127.3909,
+              46.1399
+            ],
+            [
+              -127.1628,
+              46.1399
+            ],
+            [
+              -127.1628,
+              45.9816
+            ],
+            [
+              -127.3909,
+              45.9816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alpine",
+        "pop1900": 509,
+        "sq1900": 0,
+        "area_sqmi": 738.62,
+        "color": "deep blue",
+        "colorgroup": "d",
+        "hex": "#334d5c",
+        "population": 509,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.3909,
+              45.7034
+            ],
+            [
+              -127.3339,
+              45.7034
+            ],
+            [
+              -127.3339,
+              45.6636
+            ],
+            [
+              -127.3909,
+              45.6636
+            ],
+            [
+              -127.3909,
+              45.7034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amador",
+        "pop1900": 11116,
+        "sq1900": 1,
+        "area_sqmi": 592.97,
+        "color": "blue",
+        "colorgroup": "e",
+        "hex": "#348899",
+        "population": 11116,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.6191,
+              45.6636
+            ],
+            [
+              -127.6191,
+              45.8228
+            ],
+            [
+              -127.3909,
+              45.8228
+            ],
+            [
+              -127.3909,
+              45.6636
+            ],
+            [
+              -127.6191,
+              45.6636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calaveras",
+        "pop1900": 11200,
+        "sq1900": 1,
+        "area_sqmi": 1020.04,
+        "color": "orange",
+        "colorgroup": "g",
+        "hex": "#e27a3f",
+        "population": 11200,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.6191,
+              45.5039
+            ],
+            [
+              -127.6191,
+              45.6636
+            ],
+            [
+              -127.3909,
+              45.6636
+            ],
+            [
+              -127.3909,
+              45.5039
+            ],
+            [
+              -127.6191,
+              45.5039
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacramento",
+        "pop1900": 45915,
+        "sq1900": 5,
+        "area_sqmi": 965.65,
+        "color": "lavender",
+        "colorgroup": "a",
+        "hex": "#8d719d",
+        "population": 45915,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0754,
+              45.8228
+            ],
+            [
+              -127.8473,
+              45.8228
+            ],
+            [
+              -127.8473,
+              46.1399
+            ],
+            [
+              -127.3909,
+              46.1399
+            ],
+            [
+              -127.3909,
+              45.8228
+            ],
+            [
+              -127.6191,
+              45.8228
+            ],
+            [
+              -127.6191,
+              45.7432
+            ],
+            [
+              -128.0754,
+              45.7432
+            ],
+            [
+              -128.0754,
+              45.8228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Contra Costa",
+        "pop1900": 18046,
+        "sq1900": 2,
+        "area_sqmi": 719.95,
+        "color": "light green",
+        "colorgroup": "f",
+        "hex": "#beeb9f",
+        "population": 18046,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.5318,
+              45.8228
+            ],
+            [
+              -128.0754,
+              45.8228
+            ],
+            [
+              -128.0755,
+              45.6636
+            ],
+            [
+              -128.5318,
+              45.6636
+            ],
+            [
+              -128.5318,
+              45.8228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Joaquin",
+        "pop1900": 35452,
+        "sq1900": 4,
+        "area_sqmi": 1399.28,
+        "color": "pale yellow",
+        "colorgroup": "c",
+        "hex": "#ffff9d",
+        "population": 35452,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0754,
+              45.7432
+            ],
+            [
+              -127.6191,
+              45.7432
+            ],
+            [
+              -127.6191,
+              45.4238
+            ],
+            [
+              -128.0754,
+              45.4238
+            ],
+            [
+              -128.0754,
+              45.7432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mono",
+        "pop1900": 2167,
+        "sq1900": 0,
+        "area_sqmi": 3044.4,
+        "color": "blue",
+        "colorgroup": "e",
+        "hex": "#348899",
+        "population": 2167,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.2769,
+              45.2635
+            ],
+            [
+              -127.2769,
+              45.1831
+            ],
+            [
+              -127.3909,
+              45.1831
+            ],
+            [
+              -127.3909,
+              45.2635
+            ],
+            [
+              -127.2769,
+              45.2635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madera",
+        "pop1900": 6364,
+        "sq1900": 1,
+        "area_sqmi": 2135.86,
+        "color": "sea green",
+        "colorgroup": "h",
+        "hex": "#00a388",
+        "population": 6364,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.3909,
+              45.1831
+            ],
+            [
+              -127.8473,
+              45.1831
+            ],
+            [
+              -127.8473,
+              45.2233
+            ],
+            [
+              -127.391,
+              45.2233
+            ],
+            [
+              -127.3909,
+              45.1831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariposa",
+        "pop1900": 4720,
+        "sq1900": 0,
+        "area_sqmi": 1451.12,
+        "color": "gray",
+        "colorgroup": "k",
+        "hex": "#979c9c",
+        "population": 4720,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.6191,
+              45.3036
+            ],
+            [
+              -127.6191,
+              45.2233
+            ],
+            [
+              -127.8473,
+              45.2233
+            ],
+            [
+              -127.8473,
+              45.3036
+            ],
+            [
+              -127.6191,
+              45.3036
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuolumne",
+        "pop1900": 11166,
+        "sq1900": 1,
+        "area_sqmi": 2235.41,
+        "color": "light green",
+        "colorgroup": "f",
+        "hex": "#beeb9f",
+        "population": 11166,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.8473,
+              45.3437
+            ],
+            [
+              -127.8473,
+              45.1831
+            ],
+            [
+              -128.0755,
+              45.1831
+            ],
+            [
+              -128.0755,
+              45.3437
+            ],
+            [
+              -127.8473,
+              45.3437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanislaus",
+        "pop1900": 9550,
+        "sq1900": 1,
+        "area_sqmi": 1493.79,
+        "color": "red orange",
+        "colorgroup": "i",
+        "hex": "#df5a49",
+        "population": 9550,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0755,
+              45.1831
+            ],
+            [
+              -128.3036,
+              45.1831
+            ],
+            [
+              -128.3036,
+              45.3437
+            ],
+            [
+              -128.0755,
+              45.3437
+            ],
+            [
+              -128.0755,
+              45.1831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alameda",
+        "pop1900": 130197,
+        "sq1900": 13,
+        "area_sqmi": 737.57,
+        "color": "blue",
+        "colorgroup": "e",
+        "hex": "#348899",
+        "population": 130197,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -129.2163,
+              45.6636
+            ],
+            [
+              -128.0755,
+              45.6636
+            ],
+            [
+              -128.0755,
+              45.3437
+            ],
+            [
+              -128.3036,
+              45.3437
+            ],
+            [
+              -128.3036,
+              45.1831
+            ],
+            [
+              -128.9881,
+              45.1831
+            ],
+            [
+              -128.9881,
+              45.3437
+            ],
+            [
+              -129.2163,
+              45.3437
+            ],
+            [
+              -129.2163,
+              45.6636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fresno",
+        "pop1900": 37862,
+        "sq1900": 4,
+        "area_sqmi": 5962.73,
+        "color": "deep red",
+        "colorgroup": "b",
+        "hex": "#962d3e",
+        "population": 37862,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.1628,
+              45.0221
+            ],
+            [
+              -128.0755,
+              45.0221
+            ],
+            [
+              -128.0755,
+              45.1831
+            ],
+            [
+              -127.1628,
+              45.1831
+            ],
+            [
+              -127.1628,
+              45.0221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merced",
+        "pop1900": 9215,
+        "sq1900": 1,
+        "area_sqmi": 1928.69,
+        "color": "lavender",
+        "colorgroup": "a",
+        "hex": "#8d719d",
+        "population": 9215,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0755,
+              45.0221
+            ],
+            [
+              -128.3036,
+              45.0221
+            ],
+            [
+              -128.3036,
+              45.1831
+            ],
+            [
+              -128.0755,
+              45.1831
+            ],
+            [
+              -128.0755,
+              45.0221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inyo",
+        "pop1900": 4377,
+        "sq1900": 0,
+        "area_sqmi": 10203.1,
+        "color": "lavender",
+        "colorgroup": "a",
+        "hex": "#8d719d",
+        "population": 4377,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.1895,
+              44.8606
+            ],
+            [
+              -128.3036,
+              44.8606
+            ],
+            [
+              -128.3036,
+              45.0221
+            ],
+            [
+              -128.1895,
+              45.0221
+            ],
+            [
+              -128.1895,
+              44.8606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulare",
+        "pop1900": 18375,
+        "sq1900": 2,
+        "area_sqmi": 4823.97,
+        "color": "deep blue",
+        "colorgroup": "d",
+        "hex": "#334d5c",
+        "population": 18375,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.3036,
+              44.8606
+            ],
+            [
+              -128.76,
+              44.8606
+            ],
+            [
+              -128.76,
+              45.0221
+            ],
+            [
+              -128.3036,
+              45.0221
+            ],
+            [
+              -128.3036,
+              44.8606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kings",
+        "pop1900": 9871,
+        "sq1900": 1,
+        "area_sqmi": 1390.99,
+        "color": "pale yellow",
+        "colorgroup": "c",
+        "hex": "#ffff9d",
+        "population": 9871,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.76,
+              44.8606
+            ],
+            [
+              -128.9881,
+              44.8606
+            ],
+            [
+              -128.9881,
+              45.0221
+            ],
+            [
+              -128.76,
+              45.0221
+            ],
+            [
+              -128.76,
+              44.8606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Benito",
+        "pop1900": 6633,
+        "sq1900": 1,
+        "area_sqmi": 1389.06,
+        "color": "light green",
+        "colorgroup": "f",
+        "hex": "#beeb9f",
+        "population": 6633,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.9881,
+              44.8606
+            ],
+            [
+              -129.2163,
+              44.8606
+            ],
+            [
+              -129.2163,
+              45.0221
+            ],
+            [
+              -128.9881,
+              45.0221
+            ],
+            [
+              -128.9881,
+              44.8606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kern",
+        "pop1900": 16480,
+        "sq1900": 2,
+        "area_sqmi": 8140.96,
+        "color": "light green",
+        "colorgroup": "f",
+        "hex": "#beeb9f",
+        "population": 16480,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.5318,
+              44.6986
+            ],
+            [
+              -128.9881,
+              44.6986
+            ],
+            [
+              -128.9881,
+              44.8606
+            ],
+            [
+              -128.5318,
+              44.8606
+            ],
+            [
+              -128.5318,
+              44.6986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ventura",
+        "pop1900": 14367,
+        "sq1900": 1,
+        "area_sqmi": 1845.3,
+        "color": "lavender",
+        "colorgroup": "a",
+        "hex": "#8d719d",
+        "population": 14367,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.9881,
+              44.5362
+            ],
+            [
+              -128.9881,
+              44.6986
+            ],
+            [
+              -128.76,
+              44.6986
+            ],
+            [
+              -128.76,
+              44.5362
+            ],
+            [
+              -128.9881,
+              44.5362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Bernardino",
+        "pop1900": 27929,
+        "sq1900": 3,
+        "area_sqmi": 20052.5,
+        "color": "deep red",
+        "colorgroup": "b",
+        "hex": "#962d3e",
+        "population": 27929,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.6191,
+              44.6986
+            ],
+            [
+              -127.3909,
+              44.6986
+            ],
+            [
+              -127.3909,
+              44.21
+            ],
+            [
+              -127.6191,
+              44.21
+            ],
+            [
+              -127.6191,
+              44.6986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orange",
+        "pop1900": 19696,
+        "sq1900": 2,
+        "area_sqmi": 789.4,
+        "color": "sea green",
+        "colorgroup": "h",
+        "hex": "#00a389",
+        "population": 19696,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0755,
+              44.21
+            ],
+            [
+              -127.6191,
+              44.21
+            ],
+            [
+              -127.6191,
+              44.0462
+            ],
+            [
+              -128.0755,
+              44.0462
+            ],
+            [
+              -128.0755,
+              44.21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Angeles",
+        "pop1900": 170298,
+        "sq1900": 17,
+        "area_sqmi": 4060.87,
+        "color": "blue",
+        "colorgroup": "e",
+        "hex": "#348899",
+        "population": 170298,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.76,
+              44.6986
+            ],
+            [
+              -127.6191,
+              44.6986
+            ],
+            [
+              -127.6191,
+              44.21
+            ],
+            [
+              -128.0755,
+              44.21
+            ],
+            [
+              -128.0755,
+              44.0462
+            ],
+            [
+              -128.5318,
+              44.0462
+            ],
+            [
+              -128.5318,
+              44.21
+            ],
+            [
+              -128.76,
+              44.21
+            ],
+            [
+              -128.76,
+              44.6986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverside",
+        "pop1900": 17897,
+        "sq1900": 2,
+        "area_sqmi": 7207.37,
+        "color": "light green",
+        "colorgroup": "f",
+        "hex": "#beeb9f",
+        "population": 17897,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -127.3909,
+              43.882
+            ],
+            [
+              -127.6191,
+              43.882
+            ],
+            [
+              -127.6191,
+              44.21
+            ],
+            [
+              -127.3909,
+              44.21
+            ],
+            [
+              -127.3909,
+              43.882
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Diego",
+        "pop1900": 35090,
+        "sq1900": 4,
+        "area_sqmi": 4199.89,
+        "color": "gold",
+        "colorgroup": "j",
+        "hex": "#efc94c",
+        "population": 35090,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -128.0755,
+              43.7173
+            ],
+            [
+              -128.0755,
+              44.0462
+            ],
+            [
+              -127.6191,
+              44.0462
+            ],
+            [
+              -127.6191,
+              43.7173
+            ],
+            [
+              -128.0755,
+              43.7173
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Luis Obispo",
+        "pop1900": 16637,
+        "sq1900": 2,
+        "area_sqmi": 3304.32,
+        "color": "gray",
+        "colorgroup": "k",
+        "hex": "#979c9c",
+        "population": 16637,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -129.4445,
+              44.8606
+            ],
+            [
+              -128.9881,
+              44.8606
+            ],
+            [
+              -128.9881,
+              44.6986
+            ],
+            [
+              -129.4445,
+              44.6986
+            ],
+            [
+              -129.4445,
+              44.8606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Clara",
+        "pop1900": 60216,
+        "sq1900": 6,
+        "area_sqmi": 1290.69,
+        "color": "gold",
+        "colorgroup": "j",
+        "hex": "#efc94c",
+        "population": 60216,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -129.6727,
+              45.1831
+            ],
+            [
+              -128.3036,
+              45.1831
+            ],
+            [
+              -128.3036,
+              45.0221
+            ],
+            [
+              -129.6727,
+              45.0221
+            ],
+            [
+              -129.6727,
+              45.1831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monterey",
+        "pop1900": 19380,
+        "sq1900": 2,
+        "area_sqmi": 3321.95,
+        "color": "orange",
+        "colorgroup": "g",
+        "hex": "#e27a3f",
+        "population": 19380,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -129.6727,
+              44.8606
+            ],
+            [
+              -129.6727,
+              45.0221
+            ],
+            [
+              -129.2163,
+              45.0221
+            ],
+            [
+              -129.2163,
+              44.8606
+            ],
+            [
+              -129.6727,
+              44.8606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Barbara",
+        "pop1900": 18934,
+        "sq1900": 2,
+        "area_sqmi": 2737.01,
+        "color": "red orange",
+        "colorgroup": "i",
+        "hex": "#df5a49",
+        "population": 18934,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -129.4445,
+              44.5362
+            ],
+            [
+              -129.4445,
+              44.6986
+            ],
+            [
+              -128.9881,
+              44.6986
+            ],
+            [
+              -128.9881,
+              44.5362
+            ],
+            [
+              -129.4445,
+              44.5362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cruz",
+        "pop1900": 21512,
+        "sq1900": 2,
+        "area_sqmi": 445.24,
+        "color": "gray",
+        "colorgroup": "k",
+        "hex": "#979c9c",
+        "population": 21512,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -129.9008,
+              44.8606
+            ],
+            [
+              -129.9008,
+              45.1831
+            ],
+            [
+              -129.6727,
+              45.1831
+            ],
+            [
+              -129.6727,
+              44.8606
+            ],
+            [
+              -129.9008,
+              44.8606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Mateo",
+        "pop1900": 12094,
+        "sq1900": 1,
+        "area_sqmi": 449.07,
+        "color": "pale yellow",
+        "colorgroup": "c",
+        "hex": "#ffff9d",
+        "population": 12094,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -129.6727,
+              45.1831
+            ],
+            [
+              -129.6727,
+              45.3437
+            ],
+            [
+              -129.4445,
+              45.3437
+            ],
+            [
+              -129.4445,
+              45.1831
+            ],
+            [
+              -129.6727,
+              45.1831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco",
+        "pop1900": 342782,
+        "sq1900": 34,
+        "area_sqmi": 46.69,
+        "color": "gold",
+        "colorgroup": "j",
+        "hex": "#efc94c",
+        "population": 342782,
+        "year": 1900
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.5853,
+              46.2978
+            ],
+            [
+              -129.6727,
+              46.2978
+            ],
+            [
+              -129.6727,
+              46.1399
+            ],
+            [
+              -129.4445,
+              46.1399
+            ],
+            [
+              -129.4445,
+              45.3437
+            ],
+            [
+              -130.8135,
+              45.3437
+            ],
+            [
+              -130.8135,
+              46.1399
+            ],
+            [
+              -130.5853,
+              46.1399
+            ],
+            [
+              -130.5853,
+              46.2978
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
